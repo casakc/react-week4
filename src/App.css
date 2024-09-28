@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.center ul {
+  display: inline-block;
+  text-align: left;
+}
