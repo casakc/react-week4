@@ -85,6 +85,7 @@ export default function App(props) {
           </div>
         </div>
       )}
+    <p><a href="https://github.com/casakc/react-week4">Open-source code</a>, coded by Catarina S-A</p>
     </div>
   );
 }
